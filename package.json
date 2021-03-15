@@ -1,11 +1,15 @@
 {
   "name": "@dflipse/schematic",
-  "version": "0.1.0",
+  "version": "0.1.2",
+  "repository": "github:delanoflipse/schematics",
+  "bus": {
+    "url" : "https://github.com/delanoflipse/schematics/issues"
+  },
   "description": "Another mico type-checking library.",
   "main": "dist/lib.js",
   "types": "dist/lib.d.ts",
   "scripts": {
-    "prepublish": "tsc",
+    "prepublishOnly": "tsc",
     "build": "tsc",
     "test": "tsc && jest"
   },
