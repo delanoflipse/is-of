@@ -1,5 +1,5 @@
 {
-  "name": "is-of",
+  "name": "@dflipse/schematic",
   "version": "0.1.0",
   "description": "Another mico type-checking library.",
   "main": "dist/lib.js",
