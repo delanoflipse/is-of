@@ -1,7 +1,8 @@
 {
   "name": "@dflipse/schematic",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "repository": "github:delanoflipse/schematics",
+  "homepage": "github:delanoflipse/schematics#readme",
   "bus": {
     "url" : "https://github.com/delanoflipse/schematics/issues"
   },
